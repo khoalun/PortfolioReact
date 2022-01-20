@@ -1,13 +1,13 @@
-###  what is this project?
+###  What is this project?
 Here is my portfolio where I show my skills and experience of all the project I have done 
 and keep tracking the process of my background.
 
 ### Technology I use in this application
-*.React
-*.Style component
-*.FlexBox
-*.Material-UI
-*.Javascript
+*React <space><space>
+*Style component <space><space>
+*FlexBox <space><space> 
+*Material-UI <space><space>
+*Javascript <space><space>
 
 I still continue developing my resume in the future .
 
@@ -19,4 +19,4 @@ I still continue developing my resume in the future .
 
 Here is the demo of my webpage :
 https://heuristic-golick-66a82b.netlify.app/
-![ScreenShot](bg.jpg)
+![ScreenShot!](bg.jpg)
