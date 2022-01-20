@@ -20,4 +20,4 @@ I still continue developing my resume in the future .
 Here is the demo of my webpage :
 https://heuristic-golick-66a82b.netlify.app/
 
-![ScreenShot](bg.jpg)
+![ScreenShot](background.jpg)
