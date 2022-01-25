@@ -32,9 +32,9 @@ const projects = [
   },
   {
     name: 'Project 2',
-    description: 'Phone Market App using React',
+    description: 'Phone Market App',
     image:
-      'https://media.istockphoto.com/vectors/shopping-online-on-mobile-phone-vector-id1210502000',
+      './images/phone.jpg',
     stack: ['Bootstrap', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://gallant-swartz-cf89c3.netlify.app/',
@@ -43,7 +43,7 @@ const projects = [
     name: 'Project 3',
     description: 'Car Market App',
     image:
-      'https://image.winudf.com/v2/image1/Y29tLnZpcnR1YWxjYXIzNjBfc2NyZWVuXzFfMTU1MTcyODg5MF8wNjc/screen-1.jpg?fakeurl=1&type=.jpg',
+      './images/CarMarket.jpg',
     stack: ['Mui', 'Bootstrap', 'React'],
     sourceCode: 'https://github.com',
     livePreview: ' https://cocky-visvesvaraya-2b5f4a.netlify.app',
