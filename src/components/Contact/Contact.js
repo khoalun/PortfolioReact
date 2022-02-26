@@ -1,6 +1,6 @@
 import { contact } from '../../portfolio'
 import './Contact.css'
-
+ff
 const Contact = () => {
   if (!contact.email) return null
 
